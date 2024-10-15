@@ -10,4 +10,5 @@ return {
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.motion.harpoon" },
   { import = "astrocommunity.workflow.precognition-nvim" },
+  { import = "astrocommunity.pack.terraform" },
 }
