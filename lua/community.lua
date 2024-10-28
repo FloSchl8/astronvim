@@ -8,6 +8,7 @@ return {
   { import = "astrocommunity.pack.lua" },
   -- import/override with your plugins folder
   { import = "astrocommunity.pack.go" },
+  { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.motion.harpoon" },
   { import = "astrocommunity.workflow.precognition-nvim" },
   { import = "astrocommunity.pack.terraform" },
